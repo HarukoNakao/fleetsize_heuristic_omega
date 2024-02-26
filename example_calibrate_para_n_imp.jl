@@ -49,7 +49,7 @@ input_xy        = path_data * "Coordinate_6h_23h.csv" # coords of bus stops, tra
 input_vehicle   = path_data * "VehicleInfo.csv"
 input_cs        = path_data * "CSInfo.csv"   
 
-n_instance = 10; count_1 = count_2 = 0
+n_instance = 1; count_1 = count_2 = 0
 
 # vec_para_test = vec_step_size_remove_route
 length_vec_para_test = length(vec_n_imp)*length(vec_T_red)*length(vec_t_max)
