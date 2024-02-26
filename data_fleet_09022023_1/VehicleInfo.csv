@@ -1,0 +1,3 @@
+vehicle_type,cap_veh,cap_fuel,min_fuel,energy_consumption,cost_energy,daily_purchase_cost,CO2,fleet_size,is_electric
+1,24,10000,0,0.0148,1.83,16.17,0.176,6,0
+2,24,177,0,0.9375,0.23,23.78,0,6,1
